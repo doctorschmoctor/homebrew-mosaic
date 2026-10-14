@@ -1,6 +1,6 @@
 cask "mosaic" do
-  version "0.4.2"
-  sha256 "112ea9d338adee8a2245e8be03e06ce430a064ef00715edc4969f1d6067eec9a"
+  version "0.4.3"
+  sha256 "bbd3630dc72f5284b710c1402941a2934560c024d5f569acee7f0c0cfc6fc980"
 
   url "https://github.com/doctorschmoctor/Mosaic/releases/download/v#{version}/Mosaic-#{version}.dmg"
   name "Mosaic"
